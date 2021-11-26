@@ -1,5 +1,5 @@
 # cs-61a-fall2020-
-此项目含有我对cs61a2020秋季学期大部分lab，discussion，project和homework的解答。
+此项目含有我对cs61a2020秋季学期大部分lab，discussion，project和homework的解答。从2021/06/22-2021/11/26，暑假太贪玩了，导致一共用时5个月才完成。
 
 项目中未完成的题目如下：
 
