@@ -1,5 +1,6 @@
 # cs-61a-fall2020-
-项目中含有我对cs61a2020秋季学期大部分lab，discussion，project和homework的解答。
+此项目含有我对cs61a2020秋季学期大部分lab，discussion，project和homework的解答。
+
 项目中未完成的题目如下：
 
 disc04 1.2 2.3
