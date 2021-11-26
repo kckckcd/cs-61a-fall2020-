@@ -1,0 +1,5 @@
+'num_eights-correct', (0, 70)
+'pingpong-correct', (512, 70)
+'missing_digits-correct', (1024, 70)
+'count_coins-correct', (1536, 70)
+'make_anonymous_factorial-correct', (2048, 70)

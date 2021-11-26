@@ -1,0 +1,4 @@
+'no-repeats-correct', (1536, 70)
+'filter-lst-correct', (0, 70)
+'interleave-correct', (512, 70)
+'accumulate-correct', (1024, 70)

@@ -1,0 +1,6 @@
+'prune_min-correct', (0, 70)
+'split-at-correct', (512, 70)
+'CheckingAccount-correct', (1024, 70)
+'foldl-correct', (1536, 70)
+'filterl-correct', (2048, 66)
+'reverse-correct', (2560, 66)
